@@ -50,8 +50,6 @@ Set up your domain name. In my case I'm using dynadot as the host of the domain 
 ## sg settings
 Using jim's evaluates2 account for tt.
 
-(Jim's mrdotjim email sg account for tg). 
-
 Uses these sg features:
 
 - unsubscribe group: the "unsubscribe" and "manage email preferences links are appended my sendrid and add /remove users to the sendgrid unsubscribe list, referred to by the "TT_SG_EMAIL_SUBSCRIBERS_LIST_ID" unsub id env variable.
